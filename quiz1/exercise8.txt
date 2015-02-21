@@ -1,0 +1,2 @@
+Solution:
+arr.flatten! or arr = arr.flatten

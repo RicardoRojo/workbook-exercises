@@ -1,0 +1,4 @@
+Solution:
+str = "and seven years ago..."
+1.- "Four score " + str
+2.- "Four score #{str}"

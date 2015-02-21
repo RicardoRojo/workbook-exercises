@@ -1,0 +1,3 @@
+Solution:
+1.- delete_at is used to delete the object at that index position so arr = [1, 2, 3, 4, 5] arr.delete_at(1) will delete 2 from the array and the array will be [1,3,4,5]
+2.- delete(), deletes this value/values from the array so arr.delete(1) will delete 1 and we will have arr = [2,3,4,5]

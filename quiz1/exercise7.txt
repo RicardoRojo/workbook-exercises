@@ -1,0 +1,10 @@
+Solution
+def add1(num)
+  num + 4
+end
+
+num = 2
+how_deep = "add1(add1(add1(add1(add1(add1(add1(add1(add1(add1(num))))))))))"
+eval (how_deep)
+
+Result = 42

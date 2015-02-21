@@ -1,0 +1,2 @@
+Solution:
+(10..100).include?(42) will return true.

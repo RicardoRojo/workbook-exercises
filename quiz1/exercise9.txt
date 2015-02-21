@@ -1,0 +1,11 @@
+Solution:
+arr_hash.assoc("Barney")
+
+Second exercise
+i = 0
+my_hash = Hash.new
+arr = ["Fred", "Barney", "Wilma", "Betty", "Pebbles", "BamBam"]
+arr.each do |key|
+my_hash[key] = i
+i += 1
+end
