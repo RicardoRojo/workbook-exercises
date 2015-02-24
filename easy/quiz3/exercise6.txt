@@ -1,0 +1,12 @@
+Solution
+
+str1 = "Fred"
+str2 = "Barney"
+
+compare their length
+
+str1.length << str2.length
+str1.length >> str2.length
+str1.length == str2.length
+...
+

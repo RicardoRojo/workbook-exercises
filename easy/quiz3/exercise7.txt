@@ -1,0 +1,6 @@
+Solution
+title = "Flintstone Family Members"
+
+center in 40 characters
+
+title.center(40)

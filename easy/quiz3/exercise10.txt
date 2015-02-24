@@ -1,0 +1,7 @@
+solution
+
+arr = %w( fred Barney Wilma betty BamBam Pebbles)
+
+compare without case sensitive
+
+arr.sort!{|x,y| x.casecmp(y)}

@@ -1,0 +1,8 @@
+Solution
+
+str = "The Munsters are creepy in a good way."
+
+1.- str.downcase.capitalize!
+2.- str.swapcase!
+3.- str.downcase!
+4.- str.upcase!

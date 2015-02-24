@@ -1,0 +1,5 @@
+Solution:
+
+arr = %w(Fred Barney Wilma Betty BamBam Pebbles)
+
+arr.find_index{|name| name.start_with?("Be")}

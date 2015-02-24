@@ -1,0 +1,3 @@
+Solution:
+
+inside the method instead of working with a copy of the array is iterating over the original array and that changes the values

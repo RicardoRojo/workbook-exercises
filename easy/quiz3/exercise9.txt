@@ -1,0 +1,8 @@
+solution
+
+arr = %w(Fred Barney Wilma Betty BamBam Pebbles)
+
+sort ascencing
+
+
+arr.sort!{|x,y| x.size <=> y.size}

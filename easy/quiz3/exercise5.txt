@@ -1,0 +1,7 @@
+Solution
+
+str = "The Flintstones Rock!"
+
+count number of "t"
+
+str.count("t")

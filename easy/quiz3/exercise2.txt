@@ -1,0 +1,7 @@
+solution
+
+arr = ["Fred", "Barney", "Wilma", "Betty", "BamBam", "Pebbles"]
+
+add Dino
+
+arr << "Dino"

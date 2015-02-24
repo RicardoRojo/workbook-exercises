@@ -1,0 +1,7 @@
+Solution
+
+arr = ["Fred", "Barney", "Wilma", "Betty", "BamBam", "Pebbles"]
+
+shorter way
+
+arr = %(Fred Barney Wilma Betty BamBam Pebbles)

@@ -1,0 +1,6 @@
+Solution
+
+Since the comparison will return true if its true and else it will return false there is no need to write it twice
+def color_valid
+  color == "blue" || color == "green 
+end

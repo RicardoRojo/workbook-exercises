@@ -1,0 +1,7 @@
+solution:
+
+---you will get an error not initialized---
+
+false, not giving errors. Read the explanation. You get nil
+
+

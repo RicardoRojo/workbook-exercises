@@ -1,0 +1,18 @@
+hash = { 
+    "Herman" => { "age" => 32, "gender" => "male" }, 
+    "Lily" => { "age" => 30, "gender" => "female" }, 
+    "Grandpa" => { "age" => 402, "gender" => "male" }, 
+    "Eddie" => { "age" => 10, "gender" => "male" },
+    "Marilyn" => { "age" => 23, "gender" => "female"}
+}
+
+hash.each do |key,value|
+  if value["age"] < 18
+    value["demografic"] = "kid"
+  elsif value["age"] >= 18 && value["age"] < 65
+    value["demografic"] = "adult"
+  else
+    value["demografic"] = "senior"
+  end
+end
+p hash

@@ -1,0 +1,7 @@
+solution:
+
+a) "[1,2,3,4]"
+b) "40"
+c) "10203040"
+d) "" # failed. Result 10203040
+e) "original". not changed ad lamda uses the context of the method

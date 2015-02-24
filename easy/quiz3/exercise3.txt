@@ -1,0 +1,7 @@
+Solution
+
+arr = ["Fred", "Barney", "Wilma", "Betty", "BamBam", "Pebbles"]
+
+Add Dino and Hoppy
+
+arr.push("Dino","Hoppy")

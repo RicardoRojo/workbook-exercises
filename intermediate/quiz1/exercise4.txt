@@ -1,0 +1,5 @@
+solution
+
+1.- we modify the array and that means the next iteraction works with the modified array
+
+2.- we remove the last element in every iteraction so we get [1,2] at the end

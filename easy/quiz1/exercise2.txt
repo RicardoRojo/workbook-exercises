@@ -1,0 +1,7 @@
+Solutions
+1.- != stands for not equal. Ex: name != "Mario"
+2.- ! before some field turns the result a boolean value. In this case it evaluates username into false. If used before a boolean value it evaluates into the opposite. Ex: !false is true and !true is false
+3.- it depends on what is before the !
+4.- it depends on what is after the ? . Usually used in methods like "star".include?("s") to get a true/false result. Also used in the ternary operator Ex: name == "bob" ? "His name is Bob" : "His name is not Bob"
+5.- See previous
+6.- Double boolean equivalent to not not, Ex a = "Bob", !a = false, !!a = true (!false)

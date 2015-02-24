@@ -1,0 +1,15 @@
+solution:
+a)
+    "one is: one"
+    "two is: two"
+    "three is: three"
+b)
+
+    "one is: one"
+    "two is: two"
+    "three is: three"
+c)
+
+    "one is: two"
+    "two is: three"
+    "three is: one"
